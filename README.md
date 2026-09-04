@@ -57,4 +57,4 @@ These aren't arbitrary dashboard filler — they're the four questions every inv
 
 ---
 
-Built by [Your Name] — [LinkedIn URL] — [contact]
+Built by Azfar Sazid Bhuyan — www.linkedin.com/in/sazidbhuyan — basazid@gmail.com
